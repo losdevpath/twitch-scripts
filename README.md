@@ -2,4 +2,4 @@
 Scripts for twitch streams (Browser Source OBS)
 
 ## Scripts
-- [stream-time-left](stream-time-left/README.md)
+- [stream-time-left](https://github.com/losdevpath/twitch-scripts/tree/master/stream-time-left)
