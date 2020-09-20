@@ -1,2 +1,2 @@
 # twitch-scripts
-Scripts for twitch streams (Browser Source)
+Scripts for twitch streams (Browser Source OBS)
