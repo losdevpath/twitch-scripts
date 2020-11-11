@@ -13,4 +13,4 @@ Example: C:\stream-time-left\src\app.html?percent=true&time=1
 
 ### Config params
 **percent**: true or false<br>
-**time**: number in hours (min 1 hour)
+**time**: number in minutes (0.5 = 30 seconds / 60 = 1 hour)
